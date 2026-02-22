@@ -1,4 +1,4 @@
-# Shelyak_modified
+# ShelyakDark_modified
 A conky widget based on [Shelyak](https://www.pling.com/p/1839849).  
 # Changelog  
 Check what had changed: [Changelog](https://github.com/LuDreamst/Shelyak_modified/blob/main/Changelog#L10#L19)
@@ -13,7 +13,7 @@ Check what had changed: [Changelog](https://github.com/LuDreamst/Shelyak_modifie
 2. Make a dir named `conky`:  
    `mkdir -p ~/.config/conky`  
 3. Clone this repository and move it to `~/.config/conky`:  
-   `git clone https://github.com/LuDreamst/Shelyak_modified.git && mv -v Shelyak_modified ~/.config/conky/`
+   `git clone https://github.com/LuDreamst/ShelyakDark_modified.git && mv -v ShelyakDark_modified ~/.config/conky/`
 4. Extract and install Abel.ttf from Abel.zip in the `fonts` folder.  
    If necessary, try this to update the font cache:  
    `sudo fc-cache -v -f`  
