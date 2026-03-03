@@ -6,6 +6,6 @@ sleep 2s
 		
 # Only the config listed below will be avtivated
 # if you want to combine with another theme, write the command here
-conky -c $HOME/.config/conky/Shelyak-Dark/Shelyak-Dark.conf &> /dev/null &
+conky -c $HOME/.config/conky/ShelyakDark_Modified/ShelyakDark_Modified.conf &> /dev/null &
 
 exit

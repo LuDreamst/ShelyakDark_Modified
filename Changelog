@@ -7,7 +7,12 @@ by Closebox73
 modified by LuDreamst
 ------------------------------
 
-v3.0 by Ludreamst
+v3.1 by LuDreamst
+date : 03 Mar 2026
+-	Fixed file path mismatch caused by inconsistent naming.
+
+
+v3.0 by LuDreamst
 date : 21 Nov 2025
 -	Delete time and date sections, duplicate with topbar.
 -	Move top-right section to top-left.
@@ -17,6 +22,7 @@ date : 21 Nov 2025
 -	Replace Abel with Fira to support Chinese display.
 -	Implement truncation to avoid display overflow.
 -	Adjust font sizes on music section.
+-	Change temperature metric to '°C'.
 
 
 v2.3

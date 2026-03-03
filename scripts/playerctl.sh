@@ -1,5 +1,6 @@
 #!/bin/bash
 # Closebox73
+# LuDreamst
 # 整合：获取歌手名 + 自动更新音乐封面
 
 # 配置参数

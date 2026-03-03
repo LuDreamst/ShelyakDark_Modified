@@ -1,4 +1,5 @@
 #!/bin/bash
+# LuDreamst
 # 截断脚本：检测中文，自动调整显示字符数
 # 用法: truncate.sh "文本" "最大字符数"
 
