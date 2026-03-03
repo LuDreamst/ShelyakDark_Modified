@@ -1,7 +1,7 @@
 # ShelyakDark_Modified
 A conky widget based on [Shelyak](https://www.pling.com/p/1839849).  
 # Changelog  
-Check what had changed: [Changelog](https://github.com/LuDreamst/ShelyakDark_Modified/blob/main/Changelog#L10#L25)
+Check what had changed: [Changelog](https://github.com/LuDreamst/ShelyakDark_Modified/blob/main/Changelog#L10#L18)
 # Preview  
 ![](preview.png)  
 # How to use it?  
