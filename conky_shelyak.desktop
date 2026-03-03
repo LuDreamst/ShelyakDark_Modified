@@ -1,8 +1,0 @@
-[Desktop Entry]
-Type=Application
-Name=Conky Shelyak
-Comment=Conky Desktop Widget
-Exec=/bin/bash -c "sleep 3 && conky -c /home/ludreamst/.config/conky/Shelyak-Dark/Shelyak-Dark.conf"
-Terminal=false
-Hidden=false
-X-GNOME-Autostart-enabled=true
