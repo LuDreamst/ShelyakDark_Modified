@@ -21,5 +21,5 @@ Check what had changed: [Changelog](https://github.com/LuDreamst/ShelyakDark_Mod
 6. Now you can go:
    `sh start.sh`
 7. (Optical)autostart  
-   Change [Exec](https://github.com/LuDreamst/ShelyakDark_Modified/blob/main/conky_shelyak.desktop#L5) to yours in the `conky_shelyak.desktop` and move it to `~/.config/autostart`  
+   move `ShelyakDark_Modified.desktop` to `~/.config/autostart/`  
 # Hope you enjoy it~
