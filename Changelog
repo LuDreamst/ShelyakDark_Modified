@@ -7,6 +7,12 @@ by Closebox73
 modified by LuDreamst
 ------------------------------
 
+v3.2 by LuDreamst
+date : 03 Mar 2026
+-	Reconstruct playerctl.sh.
+-	Adjust weather section.
+
+
 v3.1 by LuDreamst
 date : 03 Mar 2026
 -	Fixed file path mismatch caused by inconsistent naming.
