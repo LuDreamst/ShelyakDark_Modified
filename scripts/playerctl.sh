@@ -6,7 +6,7 @@
 # 配置参数
 FIXED_COVER="/tmp/conky_music_cover.png"
 TEMP_COVER="/tmp/conky_music_cover_temp_$.png"
-DEFAULT_COVER="/home/ludreamst/.config/conky/Shelyak-Dark/res/default-cover.png"
+DEFAULT_COVER="$HOME/.config/conky/Shelyak-Dark/res/default-cover.png"
 export DBUS_SESSION_BUS_ADDRESS="unix:path=/run/user/$(id -u)/bus"
 
 # 获取第一个可用的播放器
