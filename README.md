@@ -22,7 +22,7 @@ Check what had changed: [Changelog](https://github.com/LuDreamst/ShelyakDark_Mod
    # Install Feather icon font (already extracted)
    cp fonts/feather.ttf ~/.local/share/fonts/
    
-   # Install Fira font (for Chinese text support)
+   # (Optional)Install Fira font for Chinese text support
    sudo apt install fonts-fira-sans
    
    # Update font cache
